@@ -1,7 +1,6 @@
+import fetchScores from './featchInput.js';
 
-import { fetchScores } from './featch.js';
-
-export const addScore = async (e) => {
+const addScore = async (e) => {
   e.preventDefault();
 
   const user = document.querySelector('#gamerName').value;
@@ -22,3 +21,4 @@ export const addScore = async (e) => {
 
   fetchScores();
 };
+export default addScore;
