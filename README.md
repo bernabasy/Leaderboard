@@ -16,7 +16,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#)
 - [💻 Getting Started](#getting-started)
   - [Clone](#clone)
   - [Run](#run)
