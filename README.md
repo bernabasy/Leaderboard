@@ -44,9 +44,9 @@
 - Modern
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-> Describe between 1-3 key features of the application.
-- **[add more animation]**
+key features of the application.
+- i
+Improve ui outlooks 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
