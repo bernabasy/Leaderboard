@@ -44,9 +44,9 @@
 - Modern
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-key features of the application.
-- i
-Improve ui outlooks 
+
+### Feature Features <a name="key-features"></a>
+- Dark mode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
